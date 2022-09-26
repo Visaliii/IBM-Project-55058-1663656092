@@ -1,1 +1,1 @@
-# IBMAI
+# IBM AI Assignments
